@@ -1,0 +1,50 @@
+.input{
+    height: 25px;
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.date{
+    margin: 10px;
+    height: 25px;
+    width: 120px;
+    padding: 10px;
+    padding-left: 20px;
+    font-size: 15px;
+}
+.add{
+    margin: 10px;
+    height: 45px;
+    width: 90px;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: green;
+    cursor: pointer;
+    
+}
+.delete{
+    margin: 10px;
+    height: 45px;
+    width: 90px;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: red;
+    cursor: pointer;
+}
+.d2{
+    display: grid;
+    grid-template-columns: 280px 170px 130px;
+}
+
+.d3{
+    
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
